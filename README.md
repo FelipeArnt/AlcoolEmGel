@@ -1,2 +1,2 @@
 # HandSanitizerProject
-Automatic Hand Sanitizer with arduino zero
+Automated Hand Sanitizer with arduino zero
