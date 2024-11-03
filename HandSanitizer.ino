@@ -75,7 +75,9 @@ uint16_t readSensorandCompare(){
   Serial.print(distCM);
 
 
-if (distCM < 10 && tmp == 0 && tmp2 == 0){alcoolT(100, 80);}
+//Distancia menor de 10 ativa o alcool em gel!
+
+if (distCM < 10 && tmp == 0 && tmp2 == 0){alcoolT(100, 80);} 
 
 if (distCM < 10 && tmp == 0 && tmp2 == 1){alcoolT(100, 70);}
 
