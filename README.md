@@ -18,7 +18,7 @@ Quando o sensor detectar uma distância menor que 10 centímetros, o servo motor
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto nesse link!](https://github.com/FelipeArnt/HandSanitizer/HandSanitizer.ino) ou [Baixá-lo](https://github.com/FelipeArnt/HandSanitizer/archive/refs/heads/main.zip)
+Você pode [acessar o código fonte do projeto nesse link!](https://github.com/FelipeArnt/HandSanitizerProject/HandSanitizer.ino) ou [Baixá-lo](https://github.com/FelipeArnt/HandSanitizer/archive/refs/heads/main.zip)
 
 
 ## 🛠️ Abrir e rodar o projeto
