@@ -10,11 +10,9 @@ Quando o sensor detectar uma distância menor que 10 centímetros, o servo motor
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: !
-- `Funcionalidade 2`: ?
-- `Funcionalidade 3`: !
-- `Funcionalidade 4`: !
-- `Funcionalidade 5`: !
+- `Funcionalidade 1`: Ativação do motor em velocidade inicial (100,80)!
+- `Funcionalidade 2`: Ativação do motor em velocidade média (100,70)!
+- `Funcionalidade 3`: Ativação do motor em velocidade final (100,60)!
 
 ## 📁 Acesso ao projeto
 
