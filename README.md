@@ -33,7 +33,7 @@ Você pode [acessar o código fonte do projeto nesse link!](https://github.com/F
 - Instale as dependências necessárias --> Git, JDE & JDK :
 - sudo apt install default-jre default-jdk git
 - sudo pacman -Syu default-jre default-jdk git
-- git clone https://github.com/FelipeArnt/
+- git clone https://github.com/FelipeArnt/HandSanitizerProject.git
 - cd Diretorio
 - javac .java
 - java 
