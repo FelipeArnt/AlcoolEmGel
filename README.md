@@ -17,21 +17,3 @@ Quando o sensor detectar uma distância menor que 10 centímetros, o servo motor
 ## 📁 Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto nesse link!](https://github.com/FelipeArnt/HandSanitizerProject.git) ou [Baixá-lo](https://github.com/FelipeArnt/HandSanitizerProject/archive/refs/heads/main.zip)
-
-
-## 🛠️ Abrir e rodar o projeto
-- Se você estiver usando linux, pode simplesmente utilizar o comando git clone 
-- Caso você tenha baixado o arquivo zip, não esqueça de extraí-lo antes de rodar o projeto!
-- É necessário que você tenha instalado a versão 8 do java.
-- É recomendado que seja utilizado o Visual Studio Code para rodar o projeto.
-- Para achar o projeto, clique em  "Open folder" ou "Ctrl + K Ctrl + O" e procure o local onde o projeto foi instalado e extraído.
-
-
-##  💻 Iniciar o projeto via Linux Terminal
-- Instale as dependências necessárias --> Git, JDE & JDK :
-- sudo apt install default-jre default-jdk git
-- sudo pacman -Syu default-jre default-jdk git
-- git clone https://github.com/FelipeArnt/HandSanitizerProject.git
-- cd Diretorio
-- javac *.java
-- java 
