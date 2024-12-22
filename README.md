@@ -33,5 +33,5 @@ Você pode [acessar o código fonte do projeto nesse link!](https://github.com/F
 - sudo pacman -Syu default-jre default-jdk git
 - git clone https://github.com/FelipeArnt/HandSanitizerProject.git
 - cd Diretorio
-- javac .java
+- javac *.java
 - java 
