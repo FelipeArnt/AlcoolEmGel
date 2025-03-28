@@ -1,5 +1,5 @@
 [README.TXT](https://github.com/FelipeArnt/HandSanitizerProject/README.md)
-<h1 align="center"> Dispenser Alcool em gel com Arduino UNO</h1>
+<h1 align="center"> Dispenser Álcool em gel com Arduino UNO</h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
